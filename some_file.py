@@ -1,3 +1,5 @@
 input()
 print("hello world!")
 print('added shit')
+print('qwewqeewwqe')
+print("qwewqe")
